@@ -1,2 +1,3 @@
 # hello_world
-Hello Word
+#fix typo
+Hello World
